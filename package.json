@@ -6,12 +6,13 @@
   "author": "Fuminya",
   "license": "MIT",
   "dependencies": {
-    "csslint": "^1.0.5",
-    "eslint": "^3.19.0",
-    "htmlhint": "^0.9.13",
     "material-design-lite": "^1.3.0"
   },
   "devDependencies": {
+    "csslint": "^1.0.5",
+    "eslint": "^3.19.0",
+    "eslint-loader": "^1.7.1",
+    "htmlhint": "^0.9.13",
     "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5"
   }
