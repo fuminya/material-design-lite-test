@@ -6,3 +6,12 @@
 .demo-layout-transparent .mdl-layout__drawer-button {
   color: white;
 }
+
+.mdl-layout__content {
+  padding-top: 230px;
+  position: relative;
+}
+
+.demo-grid {
+  max-width: 900px;
+}
