@@ -5,6 +5,9 @@
   "repository": "https://github.com/fuminya/material-design-lite-test.git",
   "author": "Fuminya",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --inline --hot"
+  },
   "dependencies": {
     "material-design-lite": "^1.3.0"
   },

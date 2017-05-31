@@ -10,7 +10,8 @@ yarnのインストールは[こちら](https://yarnpkg.com/lang/en/docs/install
 ```terminal
 $ yarn install
 $ 
-$ yarn run webpack-dev-server -- --inline --hot
+$ yarn run start
+$ # yarn run webpack-dev-server --inline --hotと同じ
 $ # webpack-dev-serverを使う
 ```
 
