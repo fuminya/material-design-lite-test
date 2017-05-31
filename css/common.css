@@ -15,3 +15,13 @@
 .demo-grid {
   max-width: 900px;
 }
+
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background-color: blue;
+}
+
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
