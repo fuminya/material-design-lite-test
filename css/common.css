@@ -25,3 +25,15 @@
 .demo-card-wide > .mdl-card__menu {
   color: #fff;
 }
+
+.demo-nav__button {
+  color: #fff;
+  text-decoration: none;
+}
+
+.demo-nav {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: space-between; 
+}
