@@ -1,4 +1,4 @@
-# sample-material-design-lite
+# material-design-lite-test
 
 [Material Desgin Lite](https://github.com/google/material-design-lite)の勉強のためのテストリポジトリ。
 
@@ -14,9 +14,7 @@ $ yarn run webpack-dev-server -- --inline --hot
 $ # webpack-dev-serverを使う
 ```
 
-サーバが起動したら、```http://localhost:8080```で確認
-
-ビルドは```yarn run webpack```を実行
+サーバが起動したら、```http://localhost:8080```で確認。
 
 ## その他利用パッケージ
 
